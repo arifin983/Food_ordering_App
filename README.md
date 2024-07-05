@@ -11,6 +11,8 @@ Food Ordering App is a full-stack restaurant management website built using mode
     - [Frontend](#frontend)
     - [Backend](#backend)
   - [Project Structure](#project-structure)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Features
 
@@ -70,9 +72,9 @@ frontend/
   │   └── main.tsx
   ├── public/
   ├── package.json
-  └── tsconfig.json ```
+  └── tsconfig.json
 
-
+  ```
 
 Getting Started
 Prerequisites
@@ -93,7 +95,7 @@ Set up environment variables:
 
 Create a .env file in both backend and frontend directories with the following variables:
 
-Backend .env file:
+```Backend .env file:
 PORT=7000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
@@ -110,5 +112,13 @@ cd backend
 npm run dev
 cd ../frontend
 npm run dev
-Contact
+
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
 For any issues or questions, please contact arifuddin.danin@gmail.com(mailto:arifuddin.danin@gmail.com).

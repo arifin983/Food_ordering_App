@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "experimentalDecorators": true,
+    "rootDir": "./src",
+     "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "importHelpers": true
+   
+  },
+  "ts-node": {
+    "esm": true
+},
+"lib": ["esnext"],
+  "include": ["src"]
+}

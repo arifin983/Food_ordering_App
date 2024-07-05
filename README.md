@@ -84,6 +84,7 @@ Stripe account
 Auth0 account
 Installation
 Clone the repository:
+
 ```git clone https://github.com/arifin983/Food_ordering_App
 cd food_ordering_app
 

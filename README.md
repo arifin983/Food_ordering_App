@@ -84,8 +84,11 @@ Stripe account
 Auth0 account
 Installation
 Clone the repository:
-git clone https://github.com/arifin983/Food_Ordering_App.git
+```git clone https://github.com/arifin983/Food_ordering_App
 cd food_ordering_app
+
+```
+
 Install dependencies for both frontend and backend:
 cd backend
 npm install

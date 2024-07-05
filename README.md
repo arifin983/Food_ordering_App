@@ -11,6 +11,7 @@ Food Ordering App is a full-stack restaurant management website built using mode
     - [Frontend](#frontend)
     - [Backend](#backend)
   - [Project Structure](#project-structure)
+  - [Clone the repository:](#clone-the-repository)
   - [License](#license)
   - [Contact](#contact)
 
@@ -84,12 +85,12 @@ Stripe account
 Auth0 account
 Installation
 
-Clone the repository:
+## Clone the repository:
 
-  ```git clone https://github.com/arifin983/Food_ordering_App.git
+```bash
+    git clone https://github.com/arifin983/Food_ordering_App.git
    cd food_ordering_app
-
-  ```
+   ```
 
 Install dependencies for both frontend and backend:
 cd backend

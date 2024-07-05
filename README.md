@@ -70,7 +70,9 @@ frontend/
   │   └── main.tsx
   ├── public/
   ├── package.json
-  └── tsconfig.json
+  └── tsconfig.json ```
+
+
 
 Getting Started
 Prerequisites

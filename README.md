@@ -86,8 +86,10 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/arifin983/Food_ordering_App.git
-cd food_ordering_app
+  ```git clone https://github.com/arifin983/Food_ordering_App.git
+   cd food_ordering_app
+
+  ```
 
 Install dependencies for both frontend and backend:
 cd backend
